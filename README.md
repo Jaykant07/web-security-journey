@@ -4,7 +4,7 @@ This repo documents my daily progress through the **PortSwigger Web Security Aca
 
 ## 📅 Timeline
 
-- **Start Date:** May 20, 2025
+- **Start Date:** May 22, 2025
 
 ## ✅ What I'm Covering:
 
