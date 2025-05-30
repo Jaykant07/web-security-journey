@@ -1,4 +1,4 @@
-# 📓 Day 3: SQL Injection Basics + Labs
+# 📓 SQL Injection Basics + Labs
 
 Today’s focus: mastering SQL Injection vulnerabilities using PortSwigger labs.
 
@@ -9,6 +9,10 @@ Today’s focus: mastering SQL Injection vulnerabilities using PortSwigger labs.
 ✅ Understanding SQL Injection basics
 ✅ UNION-based SQL Injection
 ✅ Blind SQL Injection (Boolean, Time-based, Error-based)
+✅ Out-of-Band (OAST) SQL Injection
+✅ SQL Injection in Different Contexts (JSON, XML)
+✅ Second-Order SQL Injection
+✅ How to Prevent SQL Injection
 
 ---
 
@@ -68,6 +72,11 @@ TrackingId=x'||(SELECT password FROM users WHERE username='administrator')||'.yo
 
 ---
 
+## 📅 Timeline
+
+- **Start Date:** May 26, 2025
+- **End Date:** May 30, 2025
+
 ## 🛡️ Takeaways
 
 - Parameterize all queries — never directly insert user input
@@ -93,6 +102,6 @@ TrackingId=x'||(SELECT password FROM users WHERE username='administrator')||'.yo
 ## 📎 Links
 
 - [PortSwigger SQLi Labs](https://portswigger.net/web-security/sql-injection)
-- [Day 3 GitHub Folder](./)
+- [SQLi GitHub Folder](./)
 
-🌟 **Day 3 complete! On to Day 4...**
+🌟 **SQLi complete! On to next...**

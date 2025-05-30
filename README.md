@@ -17,4 +17,4 @@ This repo documents my daily progress through the **PortSwigger Web Security Aca
 
 - [Day 1: Lab Setup + First Vulnerability](./day01-setup-and-first-lab/lab-notes.md)
 - [Day 2: Understanding HTTP Requests](./day02-http-basics/lab-notes.md)
-- [Day 3: SQL Injection Basics + Labs](./day03-SQLi/lab-notes.md)
+- [Day 3: SQL Injection Basics + Labs](./SQLi/lab-notes.md)
