@@ -36,7 +36,7 @@ Broken access controls are common and critical vulnerabilities. They allow attac
 
 ---
 
-# Lab1: Unprotected Admin Functionality 🟢 _Apprentice_
+## Lab1: Unprotected Admin Functionality 🟢 _Apprentice_
 
 ## 🎯 Goal
 
@@ -51,7 +51,7 @@ Access the unprotected admin panel and delete the user `carlos`.
 
 ---
 
-# Lab2: Unprotected Admin Functionality with Unpredictable URL 🟢 _Apprentice_
+## Lab2: Unprotected Admin Functionality with Unpredictable URL 🟢 _Apprentice_
 
 ## 🎯 Goal
 
@@ -66,7 +66,7 @@ Find the hidden admin panel URL and use it to delete the user `carlos`.
 
 ---
 
-# Lab3: User Role Controlled by Request Parameter 🟢 _Apprentice_
+## Lab3: User Role Controlled by Request Parameter 🟢 _Apprentice_
 
 ## 🎯 Goal
 
@@ -81,7 +81,7 @@ Access the admin panel by forging a cookie and delete the user `carlos`.
 
 ---
 
-# Lab4: User Role Can Be Modified in User Profile 🟢 _Apprentice_
+## Lab4: User Role Can Be Modified in User Profile 🟢 _Apprentice_
 
 ## 🎯 Goal
 
@@ -97,7 +97,7 @@ Modify your own user role to admin (roleid 2) and delete the user `carlos`.
 
 ---
 
-# Lab5: URL-based Access Control Can Be Circumvented 🔵 _Practitioner_
+## Lab5: URL-based Access Control Can Be Circumvented 🔵 _Practitioner_
 
 ## 🎯 Goal
 
@@ -113,7 +113,7 @@ Bypass front-end access control to access the admin panel and delete user `carlo
 
 ---
 
-# Lab6: Method-based Access Control Can Be Circumvented 🔵 _Practitioner_
+## Lab6: Method-based Access Control Can Be Circumvented 🔵 _Practitioner_
 
 ## 🎯 Goal
 
